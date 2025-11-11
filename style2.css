@@ -28,15 +28,6 @@ body {
     z-index: 9999;
 }
 
-.kbach-0{ 
-    display: block; position: absolute;
-    width: 100vw; 
-    position: sticky; 
-    top: 0vw; 
-    margin-top: -0vw; 
-    margin-left: -5px;
-    z-index: 100;
-}
 .kbach-1{
     width: 30vw; 
     margin-top: -30vw;
@@ -50,7 +41,7 @@ body {
     width: 30vw; 
     margin-top: -30vw; 
     display: block; 
-    margin-left: 65vw; 
+    margin-left: 70vw; 
     position: sticky; 
     top:0;
     z-index: 100;
