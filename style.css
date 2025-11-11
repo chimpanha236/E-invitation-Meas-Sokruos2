@@ -138,34 +138,11 @@ animation: zoomInOut 1s ease-in-out infinite alternate
             }
             50% {
                 transform: scale(1.5);
-            }
-    
-        }
-
-
-
-
-
-
-
-
+            }}
 .click-pic :hover{
     transform: translateY(20px);
      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 h5{font-size: 3vw; text-align: center; font-family: "Siemreap", sans-serif; margin-left: -2vw;
     color: black; font-weight: 400; margin-top: 10vw; margin-bottom: 10vw; text-decoration: none; }
