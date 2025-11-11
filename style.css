@@ -16,7 +16,7 @@ background-size: 100%; }
     font-family: "Moul", serif; font-size: 4vw; margin-bottom: 10vw; margin-top: 7vw;}
     
 /* animation butterfly */
-.B1{width: 8vw; position: absolute; animation-delay: -0s;
+.B1{width: 8vw; position: absolute; animation-delay: 0s;
     animation-name: B1 ; animation-duration: 07s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;}
@@ -26,7 +26,7 @@ background-size: 100%; }
         50%{ left: 28vw; top: 80vw;   }
         75%{ left: 38vw; top: 60vw;   }
         100%{ left: 48vw; top: 40vw;  }}
-.B2{width: 10vw;  position: absolute; animation-delay: -0s;
+.B2{width: 10vw;  position: absolute; animation-delay: 1s;
     animation-name: B2 ; animation-duration: 07s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;}
@@ -37,7 +37,7 @@ background-size: 100%; }
         75%{ left: 35vw; top: 60vw;   }
         100%{ left: 45vw; top: 40vw;  }}
         
-.B3{width: 8vw;   position: absolute; animation-delay: -0s;
+.B3{width: 8vw;   position: absolute; animation-delay: 2s;
     animation-name: B3 ; animation-duration: 07s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;}
@@ -47,7 +47,7 @@ background-size: 100%; }
         50%{ left: 41vw; top: 80vw;   }
         75%{ left: 51vw; top: 60vw;   }
         100%{ left: 61vw; top: 40vw;  }}
-.B4{width: 10vw;   position: absolute; animation-delay: -0s;
+.B4{width: 10vw;   position: absolute; animation-delay: 3s;
     animation-name: B4 ; animation-duration: 07s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;}
@@ -57,7 +57,7 @@ background-size: 100%; }
         50%{ left: 34vw; top: 80vw;   }
         75%{ left: 44vw; top: 60vw;   }
         100%{ left: 54vw; top: 40vw;  }}
-.B5{width: 10vw;   position: absolute; animation-delay: -0s;
+.B5{width: 10vw;   position: absolute; animation-delay: 4s;
     animation-name: B5 ; animation-duration: 07s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;}
@@ -69,7 +69,7 @@ background-size: 100%; }
         100%{ left: 57vw; top: 40vw;  }}
 
 .B1-1{width: 10vw; position: absolute; 
-    animation-delay: -0s; transform: scaleX(-1);
+    animation-delay: 0s; transform: scaleX(-1);
     animation-name: B1-1 ; animation-duration: 07s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;}
@@ -79,7 +79,7 @@ background-size: 100%; }
         50%{ left: 50vw; top: 80vw;   }
         75%{ left: 40vw; top: 60vw;   }
         100%{ left: 30vw; top: 40vw;}}
-.B1-2{width: 8vw;  position: absolute; animation-delay: -0;transform: scaleX(-1);
+.B1-2{width: 8vw;  position: absolute; animation-delay: 1s ;transform: scaleX(-1);
     animation-name: B1-2 ; animation-duration: 07s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;}
@@ -89,7 +89,7 @@ background-size: 100%; }
         50%{ left: 55vw; top: 80vw;   }
         75%{ left: 45vw; top: 60vw;   }
         100%{ left: 35vw; top: 40vw;}}
-.B1-3{width: 10vw;   position: absolute; animation-delay: -0s;transform: scaleX(-1);
+.B1-3{width: 10vw;   position: absolute; animation-delay: 2s;transform: scaleX(-1);
     animation-name: B1-3 ; animation-duration: 07s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;}
@@ -99,7 +99,7 @@ background-size: 100%; }
         50%{ left: 53vw; top: 80vw;   }
         75%{ left: 42vw; top: 60vw;   }
         100%{ left: 30vw; top: 40vw;}}
-.B1-4{width: 10vw;   position: absolute; animation-delay: -0s;transform: scaleX(-1);
+.B1-4{width: 10vw;   position: absolute; animation-delay: 3s;transform: scaleX(-1);
     animation-name: B1-4 ; animation-duration: 07s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;}
@@ -109,7 +109,7 @@ background-size: 100%; }
         50%{ left: 45vw; top: 80vw;   }
         75%{ left: 35vw; top: 60vw;   }
         100%{ left: 20vw; top: 40vw;}}
-.B1-5{width: 10vw;   position: absolute; animation-delay: -0s;transform: scaleX(-1);
+.B1-5{width: 10vw;   position: absolute; animation-delay: 4s;transform: scaleX(-1);
     animation-name: B1-5 ; animation-duration: 06s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;}
